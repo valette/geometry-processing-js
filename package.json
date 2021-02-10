@@ -2,7 +2,6 @@
   "name": "geometry-processing",
   "version": "1.0.0",
   "description": "Fast and flexible framework for 3D geometry processing on the web",
-  "main": "index.js",
   "directories": {
     "doc": "docs",
     "test": "tests"
