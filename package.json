@@ -1,0 +1,23 @@
+{
+  "name": "geometry-processing",
+  "version": "1.0.0",
+  "description": "Fast and flexible framework for 3D geometry processing on the web",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valette/geometry-processing-js.git"
+  },
+  "author": "Rohan Sawhney, Mark Gillespie, Nick Sharp, Keenan Crane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valette/geometry-processing-js/issues"
+  },
+  "homepage": "https://github.com/valette/geometry-processing-js#readme"
+}
